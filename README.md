@@ -1,2 +1,2 @@
 # EmployeeDemo
-Project for add employee and get employee
+Project for add employee and get employees details
